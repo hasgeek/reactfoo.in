@@ -1,0 +1,13 @@
+{
+  "name": "ReactFoo",
+  "short_name": "ReactFoo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/?utm_source=app_homescreen",
+  
+  "theme_color": "#549EAF",
+  
+  "background_color": "#FAFAFA",
+  "description": "India's community of React.js and React Native developers",
+  
+}
